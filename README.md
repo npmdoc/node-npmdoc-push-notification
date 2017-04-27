@@ -1,6 +1,6 @@
 # npmdoc-push-notification
 
-#### api documentation for  [push-notification (v0.1.8)](https://github.com/idw111/push-notification#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-push-notification.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-push-notification) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-push-notification.svg)](https://travis-ci.org/npmdoc/node-npmdoc-push-notification)
+#### basic api documentation for  [push-notification (v0.1.8)](https://github.com/idw111/push-notification#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-push-notification.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-push-notification) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-push-notification.svg)](https://travis-ci.org/npmdoc/node-npmdoc-push-notification)
 
 #### push notification for apple push notification (APN) and google cloud messaging (GCM)
 
@@ -79,7 +79,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "0.1.8"
+    "version": "0.1.8",
+    "bin": {}
 }
 ```
 
