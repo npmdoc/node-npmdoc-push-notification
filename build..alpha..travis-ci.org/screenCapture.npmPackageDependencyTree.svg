@@ -6,8 +6,8 @@
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ push-notification@0.1.8 </tspan>
 <tspan x="10" y="90">  ├─┬ apn@1.7.8 </tspan>
-<tspan x="10" y="106">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="122">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="106">  │ ├─┬ debug@2.6.5 </tspan>
+<tspan x="10" y="122">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="138">  │ ├── node-forge@0.6.49 </tspan>
 <tspan x="10" y="154">  │ └── q@1.5.0 </tspan>
 <tspan x="10" y="170">  └─┬ node-gcm@0.11.1 </tspan>
@@ -47,7 +47,7 @@
 <tspan x="10" y="714">      │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="730">      │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="746">      │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="762">      │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="762">      │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="778">      │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="794">      │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="810">      │   ├── jsbn@0.1.1 </tspan>
